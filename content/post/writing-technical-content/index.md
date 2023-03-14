@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Markdown
+title: Контроль версий Git.
 date: 2019-07-12
 math: true
 image:
@@ -7,7 +7,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
